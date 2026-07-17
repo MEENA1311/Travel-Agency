@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Happy Journey Travels</title>
+</head>
+<body bgcolor="lightblue">
+<center>
+    <h1>✈ Happy Journey Travels ✈</h1>
+    <h3>Explore the World with Comfort and Happiness</h3>
+<hr width="70%">
+
+    <img src="travel.jpg" width="600" height="300" alt="Travel Image">
+    <h2>Welcome!</h2>
+    <p>
+        We help you discover beautiful destinations around the world.
+        Whether you love beaches, mountains, or cities, we have the
+        perfect holiday package for you.
+    </p>
+<hr width="50%">
+
+    <h2>Our Services</h2>
+</center>
+<center>
+    <li>✈ Flight Booking</li>
+    <li>🏨 Hotel Reservation</li>
+    <li>🚌 Tour Packages</li>
+    <li>🚗 Vehicle Rental</li>
+    <li>🛂 Visa Assistance</li>
+</center>
+<center>
+<hr width="50%">
+
+    <h2>Top Destinations</h2>
+    <p>🏝 Maldives</p>
+    <p>🗼 Paris</p>
+    <p>🏔 Switzerland</p>
+    <p>🌸 Singapore</p>
+    <p>🏖 Goa</p>
+    <hr width="50%">
+    <h2>Special Offer</h2>
+    <p><b>Book your holiday today and get up to 20% OFF!</b></p>
+<hr width="50%">
+
+    <h2>Contact Us</h2>
+    <p>📍 Chennai, Tamil Nadu</p>
+    <p>📞 +91 9876543210</p>
+    <p>📧 happyjourney@gmail.com</p>
+
+    <hr width="70%">
+
+    <h4>🌍 Travel • Explore • Enjoy 🌍</h4>
+
+</center>
+
+</body>
+
+</html>
