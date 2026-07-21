@@ -1,57 +1,112 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Happy Journey Travels</title>
+    <title>Dream Travels</title>
 </head>
+
 <body bgcolor="lightblue">
+
 <center>
-    <h1>✈ Happy Journey Travels ✈</h1>
-    <h3>Explore the World with Comfort and Happiness</h3>
-<hr width="70%">
 
-    <img src="travel.jpg" width="600" height="300" alt="Travel Image">
-    <h2>Welcome!</h2>
-    <p>
-        We help you discover beautiful destinations around the world.
-        Whether you love beaches, mountains, or cities, we have the
-        perfect holiday package for you.
-    </p>
-<hr width="50%">
+    <h1><font color="darkblue">✈ DREAM TRAVELS ✈</font></h1>
 
-    <h2>Our Services</h2>
+    <h3><font color="green">Explore the World with Us</font></h3>
+
+    <img src="travel.jpg" width="600" height="300" alt="Travel Image">
+
+    <p>
+        Welcome to <b>Dream Travels!</b> We help you explore beautiful
+        destinations around the world with affordable travel packages.
+        Whether you are planning a family vacation, honeymoon, or adventure trip,
+        we make your journey comfortable and memorable.
+    </p>
+
+    <hr width="70%">
+
+    <h2><font color="red">🌍 Our Services</font></h2>
+
 </center>
 <center>
-    <li>✈ Flight Booking</li>
-    <li>🏨 Hotel Reservation</li>
-    <li>🚌 Tour Packages</li>
-    <li>🚗 Vehicle Rental</li>
-    <li>🛂 Visa Assistance</li>
+
+    <li>✈ Flight Booking</li>
+    <li>🏨 Hotel Reservation</li>
+    <li>🚌 Holiday Tour Packages</li>
+    <li>🚗 Car Rental</li>
+    <li>🛂 Visa Assistance</li>
+    <li>📞 24 × 7 Customer Support</li>
+
 </center>
 <center>
-<hr width="50%">
 
-    <h2>Top Destinations</h2>
-    <p>🏝 Maldives</p>
-    <p>🗼 Paris</p>
-    <p>🏔 Switzerland</p>
-    <p>🌸 Singapore</p>
-    <p>🏖 Goa</p>
-    <hr width="50%">
-    <h2>Special Offer</h2>
-    <p><b>Book your holiday today and get up to 20% OFF!</b></p>
-<hr width="50%">
+    <hr width="70%">
 
-    <h2>Contact Us</h2>
-    <p>📍 Chennai, Tamil Nadu</p>
-    <p>📞 +91 9876543210</p>
-    <p>📧 happyjourney@gmail.com</p>
+    <h2><font color="purple">Tour Packages</font></h2>
 
-    <hr width="70%">
+    <table border="2" cellpadding="10">
 
-    <h4>🌍 Travel • Explore • Enjoy 🌍</h4>
+        <tr bgcolor="orange">
+            <th>Destination</th>
+            <th>Duration</th>
+            <th>Price</th>
+        </tr>
+
+        <tr bgcolor="white">
+            <td>Maldives</td>
+            <td>5 Days</td>
+            <td>₹45,000</td>
+        </tr>
+
+        <tr bgcolor="lightyellow">
+            <td>Paris</td>
+            <td>6 Days</td>
+            <td>₹70,000</td>
+        </tr>
+
+        <tr bgcolor="lightgreen">
+            <td>Switzerland</td>
+            <td>7 Days</td>
+            <td>₹90,000</td>
+        </tr>
+
+        <tr bgcolor="lightpink">
+            <td>Goa</td>
+            <td>3 Days</td>
+            <td>₹15,000</td>
+        </tr>
+
+    </table>
+
+    <hr width="70%">
+
+    <h2><font color="brown">Why Choose Us?</font></h2>
+
+    <p>✔ Affordable Packages</p>
+    <p>✔ Best Tourist Destinations</p>
+    <p>✔ Comfortable Hotels</p>
+    <p>✔ Experienced Tour Guides</p>
+    <p>✔ Safe and Secure Travel</p>
+
+    <hr width="70%">
+
+    <h2><font color="blue">Special Offer</font></h2>
+
+    <p><b>Book your trip today and get 20% OFF on selected packages!</b></p>
+
+    <hr width="70%">
+
+    <h2><font color="darkred">Contact Us</font></h2>
+
+    <p><b>Address:</b> 25 Beach Road, Chennai - 600001</p>
+    <p><b>Phone:</b> +91 98765 43210</p>
+    <p><b>Email:</b> dreamtravels@gmail.com</p>
+
+    <hr width="70%">
+
+    <h3><font color="darkgreen">
+        🌴 Travel • Explore • Enjoy • Repeat 🌴
+    </font></h3>
 
 </center>
 
 </body>
-
 </html>
